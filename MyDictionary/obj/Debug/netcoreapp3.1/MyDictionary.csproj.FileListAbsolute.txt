@@ -1,0 +1,13 @@
+F:\Kurs\KampIntro\KampIntro\MyDictionary\bin\Debug\netcoreapp3.1\MyDictionary.exe
+F:\Kurs\KampIntro\KampIntro\MyDictionary\bin\Debug\netcoreapp3.1\MyDictionary.deps.json
+F:\Kurs\KampIntro\KampIntro\MyDictionary\bin\Debug\netcoreapp3.1\MyDictionary.runtimeconfig.json
+F:\Kurs\KampIntro\KampIntro\MyDictionary\bin\Debug\netcoreapp3.1\MyDictionary.runtimeconfig.dev.json
+F:\Kurs\KampIntro\KampIntro\MyDictionary\bin\Debug\netcoreapp3.1\MyDictionary.dll
+F:\Kurs\KampIntro\KampIntro\MyDictionary\bin\Debug\netcoreapp3.1\MyDictionary.pdb
+F:\Kurs\KampIntro\KampIntro\MyDictionary\obj\Debug\netcoreapp3.1\MyDictionary.csprojAssemblyReference.cache
+F:\Kurs\KampIntro\KampIntro\MyDictionary\obj\Debug\netcoreapp3.1\MyDictionary.csproj.CoreCompileInputs.cache
+F:\Kurs\KampIntro\KampIntro\MyDictionary\obj\Debug\netcoreapp3.1\MyDictionary.AssemblyInfoInputs.cache
+F:\Kurs\KampIntro\KampIntro\MyDictionary\obj\Debug\netcoreapp3.1\MyDictionary.AssemblyInfo.cs
+F:\Kurs\KampIntro\KampIntro\MyDictionary\obj\Debug\netcoreapp3.1\MyDictionary.dll
+F:\Kurs\KampIntro\KampIntro\MyDictionary\obj\Debug\netcoreapp3.1\MyDictionary.pdb
+F:\Kurs\KampIntro\KampIntro\MyDictionary\obj\Debug\netcoreapp3.1\MyDictionary.genruntimeconfig.cache

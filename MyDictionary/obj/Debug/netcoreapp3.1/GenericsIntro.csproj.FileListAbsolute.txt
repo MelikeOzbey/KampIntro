@@ -1,0 +1,13 @@
+F:\Kurs\KampIntro\KampIntro\MyDictionary\obj\Debug\netcoreapp3.1\GenericsIntro.csproj.CoreCompileInputs.cache
+F:\Kurs\KampIntro\KampIntro\MyDictionary\obj\Debug\netcoreapp3.1\GenericsIntro.AssemblyInfoInputs.cache
+F:\Kurs\KampIntro\KampIntro\MyDictionary\obj\Debug\netcoreapp3.1\GenericsIntro.AssemblyInfo.cs
+F:\Kurs\KampIntro\KampIntro\MyDictionary\bin\Debug\netcoreapp3.1\GenericsIntro.exe
+F:\Kurs\KampIntro\KampIntro\MyDictionary\bin\Debug\netcoreapp3.1\GenericsIntro.deps.json
+F:\Kurs\KampIntro\KampIntro\MyDictionary\bin\Debug\netcoreapp3.1\GenericsIntro.runtimeconfig.json
+F:\Kurs\KampIntro\KampIntro\MyDictionary\bin\Debug\netcoreapp3.1\GenericsIntro.runtimeconfig.dev.json
+F:\Kurs\KampIntro\KampIntro\MyDictionary\bin\Debug\netcoreapp3.1\GenericsIntro.dll
+F:\Kurs\KampIntro\KampIntro\MyDictionary\bin\Debug\netcoreapp3.1\GenericsIntro.pdb
+F:\Kurs\KampIntro\KampIntro\MyDictionary\obj\Debug\netcoreapp3.1\GenericsIntro.csprojAssemblyReference.cache
+F:\Kurs\KampIntro\KampIntro\MyDictionary\obj\Debug\netcoreapp3.1\GenericsIntro.dll
+F:\Kurs\KampIntro\KampIntro\MyDictionary\obj\Debug\netcoreapp3.1\GenericsIntro.pdb
+F:\Kurs\KampIntro\KampIntro\MyDictionary\obj\Debug\netcoreapp3.1\GenericsIntro.genruntimeconfig.cache
