@@ -1,0 +1,10 @@
+F:\Kurs\KampIntro\KampIntro\CheckerBoard\bin\Debug\CheckerBoard.exe.config
+F:\Kurs\KampIntro\KampIntro\CheckerBoard\bin\Debug\CheckerBoard.exe
+F:\Kurs\KampIntro\KampIntro\CheckerBoard\bin\Debug\CheckerBoard.pdb
+F:\Kurs\KampIntro\KampIntro\CheckerBoard\obj\Debug\CheckerBoard.csprojAssemblyReference.cache
+F:\Kurs\KampIntro\KampIntro\CheckerBoard\obj\Debug\CheckerBoard.Form1.resources
+F:\Kurs\KampIntro\KampIntro\CheckerBoard\obj\Debug\CheckerBoard.Properties.Resources.resources
+F:\Kurs\KampIntro\KampIntro\CheckerBoard\obj\Debug\CheckerBoard.csproj.GenerateResource.cache
+F:\Kurs\KampIntro\KampIntro\CheckerBoard\obj\Debug\CheckerBoard.csproj.CoreCompileInputs.cache
+F:\Kurs\KampIntro\KampIntro\CheckerBoard\obj\Debug\CheckerBoard.exe
+F:\Kurs\KampIntro\KampIntro\CheckerBoard\obj\Debug\CheckerBoard.pdb

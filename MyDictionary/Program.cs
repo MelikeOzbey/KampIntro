@@ -7,7 +7,7 @@ namespace GenericsIntro
     {
         static void Main(string[] args)
         {
-            //Dictionary<int, string> mylist = new Dictionary<int, string>();
+            //Dictionary<int, string> myList = new Dictionary<int, string>();
 
             Person person1 = new Person
             {
@@ -21,7 +21,7 @@ namespace GenericsIntro
                 Name = "Ayşe Yılmaz"
             };
 
-            //mylist.Add(person.Id, person.Name);
+            //myList.Add(person.Id, person.Name);
 
             MyDictionary<int,string> myDictionaryList = new MyDictionary<int, string>();
             myDictionaryList.Add(person1.Id, person1.Name);
